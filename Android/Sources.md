@@ -45,6 +45,7 @@ Android
 * [The CommonsBlog](https://commonsware.com/blog/)
 * [Styling Android](https://blog.stylingandroid.com)
 * [Grokking Android](https://www.grokkingandroid.com)
+* [Devscast](https://devscast.tech/posts/categories/mobile)
 
 ## Tools
 * [Android Studio](https://developer.android.com/studio/index.html)
